@@ -1,18 +1,19 @@
-![github-header-banner.png](https://github.com/user-attachments/assets/1661abb3-db58-4af3-8edd-083089f27c53)
+<img width="2718" height="858" alt="Image" src="https://github.com/user-attachments/assets/04a2d1ba-ec54-4d18-ba7c-e4ffe4eae6d0" />
 
+<br>
 <br>
 
 Sou estudante do 1º semestre de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, automação e as infinitas possibilidades da Inteligência Artificial. Estou construindo minha base técnica para me tornar um desenvolvedor completo, focado em escrever código limpo e eficiente. Acredito muito no poder do trabalho em equipe e na troca de conhecimentos. 
 
 <br>
 
-<p align="left">
+<p align="right">
   </a> 
     <a href="https://github.com/Leonardo-0liveiraa?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Leonardo-0liveiraa?color=000000&style=for-the-badge&labelColor=000000&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/Leonardo-0liveiraa?color=4F4F4F&style=for-the-badge&labelColor=4F4F4F&logo=star&label=estrelas"
         />
       <br/>
     </a>
@@ -20,21 +21,22 @@ Sou estudante do 1º semestre de Análise e Desenvolvimento de Sistemas, apaixon
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Leonardo-0liveiraa?color=000000&labelColor=000000&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/Leonardo-0liveiraa?color=4F4F4F&labelColor=4F4F4F&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
 
 ---
 <br/>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Leonardo-0liveira&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="160" alt="streak graph"  />
+<div align="right">
+  <img src="https://streak-stats.demolab.com?user=Leonardo-0liveiraa&locale=en&mode=weekly&theme=graywhite&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 <br/>
 
-### 🤖 Linguagens e Tecnologias
+ ### 🤖 Linguagens e Tecnologias
+
 <br/>
 
 <img 
@@ -60,6 +62,7 @@ Sou estudante do 1º semestre de Análise e Desenvolvimento de Sistemas, apaixon
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 />
 
 <br/>
