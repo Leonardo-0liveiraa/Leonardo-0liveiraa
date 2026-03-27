@@ -1,10 +1,10 @@
-<h1 align="center">👨🏽‍💻 Leonardo</h1>
+![github-header-banner.png](https://github.com/user-attachments/assets/1661abb3-db58-4af3-8edd-083089f27c53)
 
-
-**`Desenvolvedor`**
+<br>
 
 Sou estudante do 1º semestre de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, automação e as infinitas possibilidades da Inteligência Artificial. Estou construindo minha base técnica para me tornar um desenvolvedor completo, focado em escrever código limpo e eficiente. Acredito muito no poder do trabalho em equipe e na troca de conhecimentos. 
 
+<br>
 
 <p align="left">
   </a> 
