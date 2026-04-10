@@ -92,8 +92,6 @@ Utilizo a IA como um copiloto para acelerar meu aprendizado, entender erros e ex
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Leonardo-0liveira/Leonardo-0liveira/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Leonardo-0liveiraa/Leonardo-0liveiraa/output/snake.svg" alt="Snake animation" />
 
 ###
-
---- 
