@@ -90,7 +90,7 @@ Utilizo a IA como um copiloto para acelerar meu aprendizado, entender erros e ex
 
 [![Email](https://custom-icon-badges.demolab.com/badge/-Email-FF6347?style=for-the-badge&logo=gmail&logoColor=white)](leonardolimadeoliveira4@gmail.com)
 
-[![Dev.to](https://custom-icon-badges.demolab.com/badge/-Dev.to-FF6347?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/leonardo_limadeoliveira)
+[![Dev.to](https://custom-icon-badges.demolab.com/badge/-Dev.to-898989?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/leonardo_limadeoliveira)
 
   
 <br/>
