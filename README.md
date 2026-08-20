@@ -90,18 +90,9 @@ Utilizo a IA como um copiloto para acelerar meu aprendizado, entender erros e ex
 
 [![Email](https://custom-icon-badges.demolab.com/badge/-Email-FF6347?style=for-the-badge&logo=gmail&logoColor=white)](leonardolimadeoliveira4@gmail.com)
 
-[![Email](https://custom-icon-badges.demolab.com/badge/-Email-FF6347?style=for-the-badge&logo=gmail&logoColor=white)](https://dev.to/leonardo_limadeoliveira)
+[![Dev.to](https://custom-icon-badges.demolab.com/badge/-Dev.to-FF6347?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/leonardo_limadeoliveira)
 
-  <section class="author" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="700">
-    <div class="author__inner">
-  <img src="{{site.baseurl}}{{site.author.image}}" alt="{{site.author.name}}" class="author__img">
-      <h1 class="author__job">{{ site.author.job }}</h1>
-      <p class="author__bio">{{ site.author.bio }}</p>
-        <div class="socialmedia">
-            <a href="https://dev.to/carolcode">
-              <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Icone de caixa preta escrito DEV em branco
-              para meu perfil no site DEV to" height="35" width="35">
-
+  
 <br/>
 
 <img src="https://raw.githubusercontent.com/Leonardo-0liveiraa/Leonardo-0liveiraa/output/snake.svg" alt="Snake animation" />
