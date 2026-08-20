@@ -90,6 +90,9 @@ Utilizo a IA como um copiloto para acelerar meu aprendizado, entender erros e ex
 
 [![Email](https://custom-icon-badges.demolab.com/badge/-Email-FF6347?style=for-the-badge&logo=gmail&logoColor=white)](leonardolimadeoliveira4@gmail.com)
 
+[![Email](https://custom-icon-badges.demolab.com/badge/-Email-FF6347?style=for-the-badge&logo=gmail&logoColor=white)](https://dev.to/leonardo_limadeoliveira)
+
+
 <br/>
 
 <img src="https://raw.githubusercontent.com/Leonardo-0liveiraa/Leonardo-0liveiraa/output/snake.svg" alt="Snake animation" />
